@@ -10,3 +10,10 @@ numDois = Number(prompt("digite o segundo número"));
 result = numUm * numDois;
 alert(`O resultado da multiplicação é ${result}`);
 // alert exibe uma mensagem na tela.
+
+let resultado;
+
+resultado = numUm - numDois
+alert(`A subtração dos Dois números é ${resultado.toFixed(2)}`);
+//alert exibe uma mensagem na tela  
+
